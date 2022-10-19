@@ -38,6 +38,10 @@ Fine tune stable diffusion to produce memes like output from [Img Flip's memegen
 ... i don't know why I haven't seen variants of this on twitter yet...
 
 
+### Mind Palace
+
+Use ARKit to generate memorable images for paragraphs you want to remember, and then place those images around you using ARKit.
+
 
 
 
