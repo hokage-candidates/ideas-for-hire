@@ -51,3 +51,8 @@ Basically turn [this video demo](https://www.youtube.com/watch?v=W4Mcuh38wyM&ab_
 ### Birthday eCards
 
 Upload a photo of the recipient, and each card will generate something funky with them (GIF-like) that you can send as a holiday/birthday/special occasion :)
+
+### Retool for Stable Diffusion
+No code tooling for everything you need for to build a text-to-image generative model (include dataset fine tuning)
+
+ie Gradio, but for Stable Diffusion only
