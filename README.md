@@ -43,7 +43,8 @@ Fine tune stable diffusion to produce memes like output from [Img Flip's memegen
 Use ARKit to generate memorable images for paragraphs you want to remember, and then place those images around you using ARKit.
 
 
+## AI Madlibs
 
-
+Basically turn [this video demo](https://www.youtube.com/watch?v=W4Mcuh38wyM&ab_channel=CorridorCrew) into a game like HeadsUp where you have to create a story given a series of prompts + photos of your friends. It's like MadLibs, where AI infers a coherent story + pics from prompts placed in a hat
 
 
