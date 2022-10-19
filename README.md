@@ -48,3 +48,6 @@ Use ARKit to generate memorable images for paragraphs you want to remember, and 
 Basically turn [this video demo](https://www.youtube.com/watch?v=W4Mcuh38wyM&ab_channel=CorridorCrew) into a game like HeadsUp where you have to create a story given a series of prompts + photos of your friends. It's like MadLibs, where AI infers a coherent story + pics from prompts placed in a hat
 
 
+## Birthday eCards
+
+Upload a photo of the recipient, and each card will generate something funky with them (GIF-like) that you can send as a holiday/birthday/special occasion :)
