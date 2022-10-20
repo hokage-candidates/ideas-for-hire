@@ -56,3 +56,10 @@ Upload a photo of the recipient, and each card will generate something funky wit
 No code tooling for everything you need for to build a text-to-image generative model (include dataset fine tuning)
 
 ie Gradio, but for Stable Diffusion only
+
+
+### Live your dreams
+Nobody can ever remember or accurately describe/visualize their dreams to other people - instead, you should be able to write a short sentence or two about what happened, upload a picture of the face of the friends involved, and then gets sent to the server (ideally on device) to email or text them back a super shareable comic book or short form comic strip video. Subscription service for more features/faster service. 
+You are prompted to do this every morning and can have a calendar journal. 
+Could include Watch health data as well as a factor of the 
+Maybe train people to lucid dream / plan + live episodes themselves 
